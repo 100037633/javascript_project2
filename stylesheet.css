@@ -1,0 +1,17 @@
+h1
+{
+    text-align:center;
+}
+div[name = item_list]
+{
+    color:red;
+    text-align:center;
+    margin:100px;
+}
+div[name = completed_list]
+{
+    color:green;
+    text-decoration-line:line-through;
+    margin:100px;
+    text-align:center;
+}
